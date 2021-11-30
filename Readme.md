@@ -7,7 +7,7 @@
   
 [![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@souravkl11/Raganork-QR)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/bot-setting.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/muhammed-usrbot/bot-setting-1.git)
      
 
 ## <u> VISIT OFFICIAL WEBSITE  <u>
